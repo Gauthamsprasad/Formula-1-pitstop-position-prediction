@@ -4,7 +4,7 @@
 
 # 🏎️ Formula 1 Finishing Position Prediction
 
-This project predicts **Formula 1 drivers’ finishing positions** using machine learning on Kaggle’s F1 dataset (1950–2024). It covers **data preprocessing, visualization, model training, and evaluation** with scikit-learn.
+This project predicts **Formula 1 drivers’ finishing positions** based on pit stop strategies and race data using machine learning on Kaggle’s F1 dataset (1950–2024). It covers **data preprocessing, visualization, model training, and evaluation** with scikit-learn.
 
 ---
 
